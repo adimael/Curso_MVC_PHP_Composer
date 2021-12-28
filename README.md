@@ -8,5 +8,4 @@ Clone o repositório com `git clone --branch=develop https://github.com/adimael/
 
 ## IMPORTANTE:
 
-![Screenshot](/config/materialize/img/screenshot.PNG)
-![Screenshot](/config/materialize/img/certificate.PNG)
+![Screenshot](config/materialize/img/screenshot.PNG)
