@@ -6,4 +6,5 @@ Repositório destinado apenas para estudo. O Código foi desenvolvido durante o 
 
 Clone o repositório com `git clone --branch=develop https://github.com/adimael/Curso_MVC_PHP_Composer.git`.
 
-![Screenshot](/config/img/screenshot1.jpg)
+![Screenshot](/Screenshot/screenshot1.jpg)
+![Screenshot](/Screenshot/screenshot2.jpg)
